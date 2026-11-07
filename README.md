@@ -3,7 +3,6 @@
 # ⚡ RBLXLARPS
 ### High-Speed Roblox Username Sniffer & Vault Archiver
 
-<img width="664" height="300" alt="image" src="https://github.com/user-attachments/assets/47ceb063-4a30-4e44-8647-2fc3c9e13e79" />
 <img width="771" height="423" alt="image" src="https://github.com/user-attachments/assets/fe4d5baf-dc64-44d9-86d3-8d0e864a3d4a" />
 
 
