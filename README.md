@@ -4,12 +4,13 @@
 ### High-Speed Roblox Username Sniffer & Vault Archiver
 
 <img width="771" height="423" alt="image" src="https://github.com/user-attachments/assets/fe4d5baf-dc64-44d9-86d3-8d0e864a3d4a" />
-Join Our Discord Server: https://discord.gg/M368kVjNWw
 
 
 [![Build Status](https://img.shields.io/badge/build-stable%20v1.0-blue.svg)](https://github.com)
 [![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
 [![VirusTotal Scan](https://img.shields.io/badge/security-verified-green.svg)](https://www.virustotal.com/gui/file/b70be90d5f0d30d551291c2cc61c7780344807b966d7127260cc68c499ee52c8?nocache=1)
+
+* discord server: https://discord.gg/M368kVjNWw *
 
 *A robust, multi-threaded CLI engine engineered for rapid 4-5 letter Roblox handle discovery and vault archiving.*
 
