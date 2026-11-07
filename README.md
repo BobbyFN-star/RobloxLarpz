@@ -10,7 +10,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
 [![VirusTotal Scan](https://img.shields.io/badge/security-verified-green.svg)](https://www.virustotal.com/gui/file/b70be90d5f0d30d551291c2cc61c7780344807b966d7127260cc68c499ee52c8?nocache=1)
 
-* discord server: https://discord.gg/M368kVjNWw *
+discord server: https://discord.gg/M368kVjNWw 
 
 *A robust, multi-threaded CLI engine engineered for rapid 4-5 letter Roblox handle discovery and vault archiving.*
 
