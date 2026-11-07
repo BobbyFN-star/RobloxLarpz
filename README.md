@@ -4,6 +4,7 @@
 ### High-Speed Roblox Username Sniffer & Vault Archiver
 
 <img width="771" height="423" alt="image" src="https://github.com/user-attachments/assets/fe4d5baf-dc64-44d9-86d3-8d0e864a3d4a" />
+Join Our Discord Server: https://discord.gg/M368kVjNWw
 
 
 [![Build Status](https://img.shields.io/badge/build-stable%20v1.0-blue.svg)](https://github.com)
